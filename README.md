@@ -6,6 +6,10 @@
 
 Web Extension to restore your pinned tabs on Firefox.
 
+<img width="677" alt="preferences" src="https://github.com/guillaumebriday/restore-pinned-tabs/assets/8252238/152b09ea-47aa-427c-a613-128c8d59b459">
+
+Add a list of URLs in the preferences and open them as pinned tabs whenever you want by clicking on the extension icon!
+
 ## How to install
 
 This extension is available on the Mozilla Add-ons Store : [https://addons.mozilla.org/en-US/firefox/addon/restore-pinned-tabs/](https://addons.mozilla.org/en-US/firefox/addon/restore-pinned-tabs/)
